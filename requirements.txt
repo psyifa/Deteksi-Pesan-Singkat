@@ -3,12 +3,8 @@ numpy
 pandas
 pandas_bokeh
 plotly
-Requests
+requests
 seaborn
 streamlit
 openpyxl
 scikit-learn
-random
-oickle
-pip
-sklearn
