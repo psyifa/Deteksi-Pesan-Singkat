@@ -1,6 +1,7 @@
 ## 📱 Deteksi Penipuan Pesan Singkat (SMS Fraud Detection)
 Aplikasi ini merupakan sistem deteksi pesan singkat (SMS) yang bertujuan untuk mengidentifikasi apakah sebuah pesan tergolong penipuan, promosi, spam, atau normal menggunakan algoritma Logistic Regression dan teknik Natural Language Processing.
-link aplikasi : https://deteksipenipuanpesan-psyifa.streamlit.app/
+
+📌link aplikasi : https://deteksipenipuanpesan-psyifa.streamlit.app/
 
 ## 📊 Fitur Aplikasi
 - Klasifikasi pesan menjadi 4 label: Normal, Fraud, Promo, dan Spam.
