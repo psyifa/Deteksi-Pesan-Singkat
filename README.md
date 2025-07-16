@@ -2,7 +2,7 @@
 Aplikasi ini merupakan sistem deteksi pesan singkat (SMS) yang bertujuan untuk mengidentifikasi apakah sebuah pesan tergolong penipuan, promosi, spam, atau normal menggunakan algoritma Logistic Regression dan teknik Natural Language Processing.
 link aplikasi : https://deteksipenipuanpesan-psyifa.streamlit.app/
 
-# 📊 Fitur Aplikasi
+## 📊 Fitur Aplikasi
 - Klasifikasi pesan menjadi 4 label: Normal, Fraud, Promo, dan Spam.
 - Visualisasi data:
   - Grafik batang frekuensi label.
@@ -11,7 +11,7 @@ link aplikasi : https://deteksipenipuanpesan-psyifa.streamlit.app/
 - Input pesan manual untuk dianalisis langsung oleh pengguna.
 - UI interaktif menggunakan Streamlit.
 
-# 🔬 Metodologi Penelitian
+## 🔬 Metodologi Penelitian
 1. Pengumpulan Data
 2. Preprocessing
 3. Cleaning :
@@ -26,10 +26,10 @@ link aplikasi : https://deteksipenipuanpesan-psyifa.streamlit.app/
    - Evaluasi Model
    - Pembuatan Aplikasi (Streamlit)
 
-# 📁 Dataset
+## 📁 Dataset
 Dataset yang digunakan adalah SMS Spam Bahasa Indonesia yang tersedia di repositori id-nlp-resource by @kmkurn. Dataset terdiri dari pesan SMS berlabel penipuan dan non-penipuan.
 
-# 🧪 Evaluasi Model
+## 🧪 Evaluasi Model
 Model dikembangkan menggunakan metode supervised learning dan dievaluasi dengan metrik berikut:
 - Akurasi: 90%
 - Precision: 0.90
